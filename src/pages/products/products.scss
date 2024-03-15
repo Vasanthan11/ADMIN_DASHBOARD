@@ -1,0 +1,15 @@
+.products {
+
+    .info {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-bottom: 20px;
+
+        button {
+            padding: 7px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    }
+}
